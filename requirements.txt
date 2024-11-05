@@ -1,0 +1,4 @@
+pandas
+dotenv
+pinecone
+sentence_transformers
